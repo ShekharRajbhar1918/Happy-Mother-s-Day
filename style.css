@@ -1,0 +1,50 @@
+body {
+    background-image:url("https://png.pngtree.com/png-clipart/20190515/original/pngtree-modern-colorful-watercolor-background-png-image_3541864.jpg");
+    margin-right:5px;
+    margin-left:5px;
+    
+
+}
+img{
+    width:96%;
+    border:5px black;
+    padding-left:2%;
+    padding-right:2%;
+}
+h1{
+    font-family:cursive;
+    color:red;
+    font-weight:bolder;
+    text-align:center;
+    text-shadow:4px 3px 6px #FF4500;
+}
+marquee{
+    font-size:40px;
+    font-family:serif;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR86BtaX5UmLL4uZHIbEh7yiE_o1n8tb8IJTqVeoE2Nsd7reQTh&usqp=CAU");
+    color:#FF4500;
+}
+#contacts img {
+    height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+#contacts a {
+    text-decoration: none;
+}
+#contacts img:hover {
+    opacity: 0.8;
+}
+#contacts {
+    text-align: center;
+}
+.copyright {
+    font-size: 8pt;
+    text-align: right;
+    padding-bottom: 10px;
+    color: grey;
+}
+ marquee h1{
+    color: aqua;
+ }
